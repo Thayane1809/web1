@@ -1,0 +1,104 @@
+#corpo {
+    border: 2px solid black;
+    width: 55%;
+    height: 540px;
+    margin: auto;
+    background-color: lightgray;
+    padding: 15px;
+}
+
+#tela1 {
+    border: 2px solid black;
+    width: 550px;
+    height: 475px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+    position: relative;
+    left: 1px;
+    top: -65px;
+}
+
+#tela2 {
+    background-color: rgb(39, 35, 35);
+    border: 2px solid black;
+    margin-left: 25px;
+    width: 370px;
+    height: 400px;
+    float: left;
+    margin-top: -404px;
+    margin-left: 600px;
+    position: relative;
+    left: 10px;
+    top: -65px;
+}
+
+.botao {
+    margin-top: 25px;
+    margin-left: 38px;
+    margin-right: 15px;
+    margin: 10px;
+    position: relative;
+    left: 18px;
+    top: 10px;
+    background-color: black;
+    color: white;
+    border-style: inset;
+    border-radius: 1px;
+    width: 75px;
+    height: 55px;
+    display: inline-block;
+    text-align: left;
+    font-size: 31px;
+}
+
+#botao0 {
+    margin-left: 170px;
+    margin-top: 25px;
+    margin-right: 15px;
+    position: relative;
+    left: -35px;
+    top: -1px;
+    background-color: black;
+    color: white;
+    border-style: inset;
+    border-radius: 1px;
+    width: 75px;
+    height: 55px;
+    display: inline-block;
+    text-align: left;
+    font-size: 31px;
+}
+
+#branco {
+    margin-left: 50px;
+    margin-top: -100px;
+    margin-right: 15px;
+    position: relative;
+    left: -35px;
+    top: 7px;
+    background-color: white;
+    color: black;
+    border-style: inset;
+    width: 75px;
+    height: 45px;
+    display: inline-block;
+    text-align: center;
+    font-size: 13px;
+}
+
+img {
+    height: 68px;
+    width: 68px;
+    position: relative;
+    left: 10px;
+    top: 12px;
+}
+
+.simbolo{
+    background-color: white;
+    width: 300px;
+    height: 80px;
+    position: relative;
+    left: 610px;
+}
